@@ -313,7 +313,7 @@ export default [
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu"
     },
-	{
+	    {
         animeEmoji:"🤵🏼👊🏼👱🏼",
         animeName:"Kimetsu_no_Yaiba",
         animeYear:2019,
@@ -321,10 +321,10 @@ export default [
 		
     },
     {
-        animeEmoji:"🤵🏼🏆️👊🚴️👱🏼",
-        animeName:"Dragon Ball",
+        animeEmoji:"🤵🏼🚴️👱🏼",
+        animeName:"Fullmetal Alchemist: Brotherhood",
         animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/223/Dragon_Ball"
+        animeLink:"https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
 		
     },
 ]
