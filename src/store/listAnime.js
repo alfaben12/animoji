@@ -319,12 +319,5 @@ export default [
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
 		
-    },
-    {
-        animeEmoji:"🤵🏼🚴️👱🏼",
-        animeName:"Fullmetal Alchemist: Brotherhood",
-        animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
-		
-    },
+    }
 ]
